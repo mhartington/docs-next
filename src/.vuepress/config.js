@@ -246,7 +246,14 @@ module.exports = {
               },
               { text: 'Weekly news', link: 'https://news.vuejs.org/' }
             ]
+          },{
+            text: 'Community Projects',
+            items: [
+              { text: 'Mobile Solutions', link: '/community/mobile' },
+
+            ]
           }
+
         ]
       },
       {
